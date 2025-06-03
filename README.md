@@ -1,4 +1,4 @@
-### Dropbox-like Distributed File Storage System
+# Dropbox-like Distributed File Storage System
 Dropbox-like Distributed File Storage System Using MinIO and gRPC
 
 ## Project Overview
@@ -40,4 +40,4 @@ node ./server/index.js
 
 <hr>
 
-# Please help improve and expand the project.
+### Please help improve and expand the project.
